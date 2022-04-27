@@ -16,7 +16,7 @@ var bmak = bmak && bmak.hasOwnProperty("ver") && bmak.hasOwnProperty("sed") ? bm
     js_post: false,
     loc: "",
     params_url: "https://www.fedex.com/get_params'",
-    cf_url: "https://www.fedex.com/rotHnE/Qan7/1Mb/nZw/xPmnOhcnqsk/Q3ES2zGp/HXYyb00D/ATR1GG/kOAHcB",
+    cf_url: "<URL>",
     auth: "",
     api_public_key: "afSbep8yjnZUjq3aL010jO15Sawj2VZfdYK8uY90uxq",
     aj_lmt_doact: 1,
